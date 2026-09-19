@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#201a2a"/><stop offset="1" stop-color="#7c6aa3"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/><circle cx="630" cy="575" r="279" fill="#7c6aa3" opacity="0.15"/><circle cx="190" cy="579" r="400" fill="#7c6aa3" opacity="0.15"/><circle cx="938" cy="421" r="366" fill="#7c6aa3" opacity="0.12"/><circle cx="583" cy="458" r="258" fill="#7c6aa3" opacity="0.14"/><circle cx="881" cy="974" r="222" fill="#7c6aa3" opacity="0.15"/><circle cx="1485" cy="45" r="277" fill="#7c6aa3" opacity="0.13"/><rect width="1600" height="1000" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="70" fill="#fff" fill-opacity=".55" letter-spacing="4">SCHREIBTISCH</text>
+</svg>

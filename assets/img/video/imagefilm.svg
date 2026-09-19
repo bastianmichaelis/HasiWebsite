@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#221c2e"/><stop offset="1" stop-color="#8a74b0"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/><circle cx="137" cy="731" r="301" fill="#8a74b0" opacity="0.10"/><circle cx="1597" cy="289" r="302" fill="#8a74b0" opacity="0.15"/><circle cx="1421" cy="698" r="375" fill="#8a74b0" opacity="0.13"/><circle cx="554" cy="461" r="381" fill="#8a74b0" opacity="0.16"/><circle cx="1249" cy="485" r="206" fill="#8a74b0" opacity="0.17"/><circle cx="976" cy="63" r="409" fill="#8a74b0" opacity="0.08"/><rect width="1600" height="900" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="63" fill="#fff" fill-opacity=".55" letter-spacing="4">IMAGEFILM</text>
+</svg>

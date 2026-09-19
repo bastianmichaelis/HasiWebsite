@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d1927"/><stop offset="1" stop-color="#5f4f85"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="800" height="1200" fill="url(#g)"/><circle cx="408" cy="1010" r="397" fill="#5f4f85" opacity="0.11"/><circle cx="241" cy="521" r="180" fill="#5f4f85" opacity="0.18"/><circle cx="249" cy="1067" r="187" fill="#5f4f85" opacity="0.06"/><circle cx="456" cy="1132" r="278" fill="#5f4f85" opacity="0.05"/><circle cx="681" cy="358" r="267" fill="#5f4f85" opacity="0.16"/><circle cx="327" cy="964" r="232" fill="#5f4f85" opacity="0.13"/><rect width="800" height="1200" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="56" fill="#fff" fill-opacity=".55" letter-spacing="4">ZWISCHEN DEN BILDERN</text><text x="50%" y="62%" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="28" fill="#fff" fill-opacity=".45" letter-spacing="6">ESSAYS</text>
+</svg>

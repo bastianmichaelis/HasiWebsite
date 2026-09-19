@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1826"/><stop offset="1" stop-color="#6a5a8c"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/><circle cx="17" cy="80" r="291" fill="#6a5a8c" opacity="0.18"/><circle cx="458" cy="862" r="200" fill="#6a5a8c" opacity="0.17"/><circle cx="507" cy="189" r="306" fill="#6a5a8c" opacity="0.08"/><circle cx="1079" cy="136" r="394" fill="#6a5a8c" opacity="0.08"/><circle cx="1519" cy="249" r="275" fill="#6a5a8c" opacity="0.17"/><circle cx="886" cy="659" r="291" fill="#6a5a8c" opacity="0.11"/><rect width="1600" height="900" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="63" fill="#fff" fill-opacity=".55" letter-spacing="4">AFTERMOVIE</text>
+</svg>
