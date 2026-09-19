@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2c2236"/><stop offset="1" stop-color="#9c6fb3"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/><circle cx="427" cy="11" r="416" fill="#9c6fb3" opacity="0.15"/><circle cx="323" cy="934" r="272" fill="#9c6fb3" opacity="0.05"/><circle cx="1395" cy="150" r="338" fill="#9c6fb3" opacity="0.08"/><circle cx="692" cy="477" r="332" fill="#9c6fb3" opacity="0.09"/><circle cx="539" cy="352" r="267" fill="#9c6fb3" opacity="0.17"/><circle cx="422" cy="895" r="331" fill="#9c6fb3" opacity="0.15"/><rect width="1600" height="1000" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="70" fill="#fff" fill-opacity=".55" letter-spacing="4">KONZERTNACHT</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2e2538"/><stop offset="1" stop-color="#a08cc4"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/><circle cx="483" cy="621" r="232" fill="#a08cc4" opacity="0.14"/><circle cx="980" cy="317" r="226" fill="#a08cc4" opacity="0.06"/><circle cx="822" cy="1125" r="328" fill="#a08cc4" opacity="0.15"/><circle cx="120" cy="454" r="446" fill="#a08cc4" opacity="0.12"/><circle cx="566" cy="353" r="234" fill="#a08cc4" opacity="0.08"/><circle cx="52" cy="1312" r="593" fill="#a08cc4" opacity="0.08"/><rect width="1200" height="1500" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#fff" fill-opacity=".55" letter-spacing="4">FEIER BEI NACHT</text>
+</svg>

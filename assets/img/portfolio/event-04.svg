@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#332741"/><stop offset="1" stop-color="#b48ac9"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/><circle cx="1069" cy="848" r="593" fill="#b48ac9" opacity="0.09"/><circle cx="748" cy="593" r="269" fill="#b48ac9" opacity="0.15"/><circle cx="1106" cy="1354" r="322" fill="#b48ac9" opacity="0.06"/><circle cx="55" cy="509" r="376" fill="#b48ac9" opacity="0.16"/><circle cx="859" cy="516" r="436" fill="#b48ac9" opacity="0.15"/><circle cx="822" cy="281" r="462" fill="#b48ac9" opacity="0.06"/><rect width="1200" height="1500" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#fff" fill-opacity=".55" letter-spacing="4">APPLAUS</text>
+</svg>

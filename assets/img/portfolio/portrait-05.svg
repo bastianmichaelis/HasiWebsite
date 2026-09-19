@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241f2c"/><stop offset="1" stop-color="#6d5f85"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/><circle cx="948" cy="1255" r="371" fill="#6d5f85" opacity="0.08"/><circle cx="381" cy="1385" r="183" fill="#6d5f85" opacity="0.09"/><circle cx="949" cy="1238" r="221" fill="#6d5f85" opacity="0.09"/><circle cx="83" cy="1491" r="374" fill="#6d5f85" opacity="0.07"/><circle cx="925" cy="1484" r="396" fill="#6d5f85" opacity="0.07"/><circle cx="487" cy="105" r="236" fill="#6d5f85" opacity="0.07"/><rect width="1200" height="1500" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#fff" fill-opacity=".55" letter-spacing="4">FAMILIE</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2e2538"/><stop offset="1" stop-color="#a08cc4"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".5" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/><circle cx="275" cy="1165" r="590" fill="#a08cc4" opacity="0.15"/><circle cx="522" cy="241" r="433" fill="#a08cc4" opacity="0.15"/><circle cx="967" cy="1334" r="374" fill="#a08cc4" opacity="0.15"/><circle cx="192" cy="999" r="194" fill="#a08cc4" opacity="0.17"/><circle cx="798" cy="886" r="491" fill="#a08cc4" opacity="0.15"/><circle cx="4" cy="1425" r="408" fill="#a08cc4" opacity="0.08"/><rect width="1200" height="1500" fill="url(#v)"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#fff" fill-opacity=".55" letter-spacing="4">DER MOMENT</text>
+</svg>
